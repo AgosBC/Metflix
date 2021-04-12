@@ -1,4 +1,4 @@
-package app;
+package app.contenidos;
 import app.personas.*;
 
 import java.util.ArrayList;
