@@ -1,3 +1,5 @@
+package app.personas;
+
 public class Persona {
 
     private String nombre;

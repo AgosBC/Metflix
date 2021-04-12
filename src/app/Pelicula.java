@@ -1,3 +1,5 @@
+package app;
+import app.personas.*;
 public class Pelicula extends Contenido {
 
     private int duracion;
